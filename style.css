@@ -1,3 +1,14 @@
 body {
     text-align: center;
+    font-family: Verdana, sans-serif, Tahoma;
 }
+* {
+    background-color: whitesmoke;
+}
+
+.link {
+    font-size: 35px;
+    color: rgba(227,178,103,255);
+}
+
+
