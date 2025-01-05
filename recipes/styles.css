@@ -6,6 +6,12 @@ body {
     text-align: center;
     font-family: Verdana, sans-serif, Tahoma;
 }
+
 #ingrstep {
     text-align: left;
+}
+
+#description {
+    width: 950px;
+    margin: auto;
 }
